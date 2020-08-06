@@ -2,7 +2,7 @@
 
 * Grafana - https://grafana.com/grafana/download
 * Zabbix - https://www.zabbix.com/cn/download
-* Prometheus - https://github.com/prometheus/prometheus/releases/
+* Prometheus - https://prometheus.io/download/
 * mysqld_exporter - https://github.com/prometheus/node_exporter/releases/
 * node_exporter - https://github.com/prometheus/node_exporter/releases/
 * jmx_exporter - https://github.com/prometheus/jmx_exporter/releases/
