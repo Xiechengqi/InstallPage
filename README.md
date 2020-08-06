@@ -15,6 +15,7 @@
 
 * Ansible - https://releases.ansible.com/ansible/
 * Jenkins - https://www.jenkins.io/zh/download/
+* Git - https://github.com/git/git/releases
 * GitLab - https://about.gitlab.com/install/
 
 
