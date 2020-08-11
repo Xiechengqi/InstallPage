@@ -13,6 +13,7 @@
 * iKuai - https://www.ikuai8.com/component/download
 * JumpServer - https://github.com/jumpserver/jumpserver/releases
 * frp - https://github.com/fatedier/frp/releases
+* nexus - https://www.sonatype.com/download-oss-sonatype
 
 * Ansible - https://releases.ansible.com/ansible/
 * Jenkins - https://www.jenkins.io/zh/download/
