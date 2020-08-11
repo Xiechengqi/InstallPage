@@ -12,16 +12,18 @@
 * Openwrt - https://downloads.openwrt.org/releases/
 * iKuai - https://www.ikuai8.com/component/download
 * JumpServer - https://github.com/jumpserver/jumpserver/releases
+* frp - https://github.com/fatedier/frp/releases
 
 * Ansible - https://releases.ansible.com/ansible/
 * Jenkins - https://www.jenkins.io/zh/download/
 * Git - https://github.com/git/git/releases
 * GitLab - https://about.gitlab.com/install/
-
+* Maven - https://archive.apache.org/dist/maven/maven-3/
 
 * Nginx - http://nginx.org/en/download.html
 * Tomcat - https://archive.apache.org/dist/tomcat/
 * Node - https://nodejs.org/zh-cn/download/
+
 
 * Docker - https://docs.docker.com/engine/install/
 * Kubernetes - https://github.com/kubernetes/kubernetes/releases
