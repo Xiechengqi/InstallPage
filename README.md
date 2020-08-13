@@ -16,6 +16,7 @@
 * JumpServer - https://github.com/jumpserver/jumpserver/releases
 * frp - https://github.com/fatedier/frp/releases
 * nexus - https://www.sonatype.com/download-oss-sonatype
+* harbor - https://github.com/goharbor/harbor/releases
 
 * Ansible - https://releases.ansible.com/ansible/
 * Jenkins - https://www.jenkins.io/zh/download/
