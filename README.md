@@ -28,6 +28,7 @@
 * Nginx - http://nginx.org/en/download.html
 * Tomcat - https://archive.apache.org/dist/tomcat/
 * Node - https://nodejs.org/zh-cn/download/
+* Raspbian Mirrors - https://www.raspbian.org/RaspbianMirrors
 
 
 * Docker - https://docs.docker.com/engine/install/
