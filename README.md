@@ -21,7 +21,7 @@
 
 * Ansible - https://releases.ansible.com/ansible/
 * Jenkins - https://www.jenkins.io/zh/download/
-* Git - https://github.com/git/git/releases
+* Git - https://mirrors.edge.kernel.org/pub/software/scm/git/
 * GitLab - https://about.gitlab.com/install/
 
 
