@@ -22,6 +22,7 @@
 * Jenkins - https://www.jenkins.io/zh/download/
 * Git - https://mirrors.edge.kernel.org/pub/software/scm/git/
 * GitLab - https://about.gitlab.com/install/
+* Jetty - https://www.eclipse.org/jetty/download.html
 
 
 * Nginx - http://nginx.org/en/download.html
