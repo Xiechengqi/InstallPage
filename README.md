@@ -20,6 +20,7 @@
 
 * Ansible - https://releases.ansible.com/ansible/
 * Jenkins - https://www.jenkins.io/zh/download/
+* Maven - https://archive.apache.org/dist/maven/maven-3/
 * Git - https://mirrors.edge.kernel.org/pub/software/scm/git/
 * GitLab - https://about.gitlab.com/install/
 * Jetty - https://www.eclipse.org/jetty/download.html
@@ -31,8 +32,10 @@
 * Raspbian Mirrors - https://www.raspbian.org/RaspbianMirrors
 
 
-* Docker - https://docs.docker.com/engine/install/
+* Docker - https://docs.docker.com/engine/install/（国外） - https://get.daocloud.io/（国内）
 * Kubernetes - https://github.com/kubernetes/kubernetes/releases
+* Harbor - https://github.com/goharbor/harbor/releases
+* Portainer - https://github.com/portainer/portainer/releases
 
 
 ### 数据库
@@ -49,5 +52,8 @@
 ### 工具
 * bashdb - https://sourceforge.net/projects/bashdb/files/bashdb/
 * frp - https://github.com/fatedier/frp/releases
-* Maven - https://archive.apache.org/dist/maven/maven-3/
+* nps - https://github.com/ehang-io/nps/releases
 * V2ray - https://github.com/v2ray/v2ray-core/releases
+* ttyd - https://github.com/tsl0922/ttyd/releases/
+* transmission - https://transmissionbt.com/download/
+* 一路赚钱（挂机工具） - https://www.yiluzhuanqian.com/download
