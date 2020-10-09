@@ -8,7 +8,12 @@
 * node_exporter - https://github.com/prometheus/node_exporter/releases/
 * jmx_exporter - https://github.com/prometheus/jmx_exporter/releases/
 * windows_exporter - https://github.com/prometheus-community/windows_exporter/releases
-
+* confluence - https://www.atlassian.com/zh/software/confluence - 知识管理工具
+* Apollo - https://github.com/ApolloAuto/apollo - 配置管理中心
+* jmeter - http://jmeter.apache.org/download_jmeter.cgi
+* Selenium - https://www.selenium.dev/downloads/
+* Robot Framework - https://github.com/robotframework/robotframework/releases
+* testNG - https://testng.org/doc/download.html
 
 * Linux Kernerl - https://www.kernel.org/
 * Openwrt - https://downloads.openwrt.org/releases/
