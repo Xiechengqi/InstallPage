@@ -41,7 +41,17 @@
 * Kubernetes - https://github.com/kubernetes/kubernetes/releases
 * Harbor - https://github.com/goharbor/harbor/releases
 * Portainer - https://github.com/portainer/portainer/releases
+* RedHat - https://archive.kernel.org/redhat-archive/
 
+### ISO
+
+
+* The Linux Kernel Archives - https://www.kernel.org/
+* CentOS - https://archive.kernel.org/centos-vault/
+* ArchiLinux - https://archive.kernel.org/archlinux-archive/
+* Fedora - https://mirrors.kernel.org/fedora-buffet/archive/fedora/linux/
+* Ubuntu - https://archive.kernel.org/ubuntu-archive/
+* Debian - https://archive.kernel.org/debian-archive/
 
 ### 数据库
 *  MySQL Community -  https://dev.mysql.com/downloads/
