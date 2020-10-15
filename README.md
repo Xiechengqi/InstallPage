@@ -65,6 +65,8 @@
 * flutter - https://flutter.dev/docs/get-started/install
 
 ### 工具
+* electron-wechat - https://github.com/eNkru/freechat/releases
+* FreeReader - https://jangernert.github.io/FeedReader/
 * bashdb - https://sourceforge.net/projects/bashdb/files/bashdb/
 * frp - https://github.com/fatedier/frp/releases
 * nps - https://github.com/ehang-io/nps/releases
