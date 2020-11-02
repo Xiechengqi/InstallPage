@@ -42,6 +42,8 @@
 * Harbor - https://github.com/goharbor/harbor/releases
 * Portainer - https://github.com/portainer/portainer/releases
 * RedHat - https://archive.kernel.org/redhat-archive/
+* Collbar - https://github.com/cobbler/cobbler/releases/tag/v3.2.0
+
 
 ### ISO
 
