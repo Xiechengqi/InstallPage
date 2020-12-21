@@ -58,6 +58,7 @@
 ### 数据库
 *  MySQL Community -  https://dev.mysql.com/downloads/
 * Redis - https://redis.io/download
+* Mongo - https://repo.mongodb.org/yum/redhat/7/mongodb-org/
 
 ### 编程语言
 * Ruby - https://www.ruby-lang.org/zh_cn/downloads/
