@@ -1,15 +1,35 @@
 
 * Oracle 账户密码：xiechengqi01@gamil/Xcq....
 
-* Grafana - https://grafana.com/grafana/download
-* Zabbix - https://www.zabbix.com/cn/download
+## 监控
+
 * Prometheus - https://prometheus.io/download/
+* altermanager - https://prometheus.io/download/
 * mysqld_exporter - https://github.com/prometheus/node_exporter/releases/
 * node_exporter - https://github.com/prometheus/node_exporter/releases/
 * jmx_exporter - https://github.com/prometheus/jmx_exporter/releases/
 * windows_exporter - https://github.com/prometheus-community/windows_exporter/releases
+* Grafana - https://grafana.com/grafana/download
+* Zabbix - https://www.zabbix.com/cn/download
+
+## 消息队列
+
+* kafaka - https://kafka.apache.org/downloads
+* Redis - https://redis.io/download
+
+## 服务发现
+
+* zookeeper - https://zookeeper.apache.org/releases.html#download
+* etcd - https://github.com/etcd-io/etcd/releases
+* consul - https://www.consul.io/downloads
+
+## WIKI
 * confluence - https://www.atlassian.com/zh/software/confluence - 知识管理工具
+
+
 * Apollo - https://github.com/ApolloAuto/apollo - 配置管理中心
+
+## 测试工具
 * jmeter - http://jmeter.apache.org/download_jmeter.cgi
 * Selenium - https://www.selenium.dev/downloads/
 * Robot Framework - https://github.com/robotframework/robotframework/releases
@@ -47,7 +67,6 @@
 
 ### ISO
 
-
 * The Linux Kernel Archives - https://www.kernel.org/
 * CentOS - https://archive.kernel.org/centos-vault/
 * ArchiLinux - https://archive.kernel.org/archlinux-archive/
@@ -56,8 +75,7 @@
 * Debian - https://archive.kernel.org/debian-archive/
 
 ### 数据库
-*  MySQL Community -  https://dev.mysql.com/downloads/
-* Redis - https://redis.io/download
+* MySQL Community -  https://dev.mysql.com/downloads/
 * Mongo - https://repo.mongodb.org/yum/redhat/7/mongodb-org/
 
 ### 编程语言
@@ -67,7 +85,7 @@
 * Java - https://www.oracle.com/cn/java/technologies/oracle-java-archive-downloads.html
 * flutter - https://flutter.dev/docs/get-started/install
 
-### 工具
+### Other 工具
 * electron-wechat - https://github.com/eNkru/freechat/releases
 * FreeReader - https://jangernert.github.io/FeedReader/
 * bashdb - https://sourceforge.net/projects/bashdb/files/bashdb/
