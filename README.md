@@ -1,5 +1,6 @@
 
 * Oracle 账户密码：xiechengqi01@gamil/Xcq....
+* VMWare 账户密码: xiechengqi01@gmail.com / Pa->@i->1 
 
 ## 监控
 
