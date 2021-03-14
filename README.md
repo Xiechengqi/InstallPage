@@ -74,7 +74,7 @@
 
 ### ISO
 
-* **国内** - http://mirrors.sohu.com/
+* **国内** - http://mirrors.sohu.com/ - https://mirrors.aliyun.com/centos/
 * The Linux Kernel Archives - https://www.kernel.org/
 * CentOS - https://archive.kernel.org/centos-vault/
 * ArchiLinux - https://archive.kernel.org/archlinux-archive/
